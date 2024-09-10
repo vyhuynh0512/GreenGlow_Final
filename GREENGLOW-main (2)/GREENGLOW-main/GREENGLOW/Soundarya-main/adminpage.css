@@ -45,10 +45,11 @@ body {
   }
   
   #main {
-    height: 80px;
+    height: 100px;
     display: flex;
     background-color: white;
     border-bottom: 3px solid #c3d3b1;
+
   }
   
   #main>div:nth-child(1) {
@@ -63,7 +64,9 @@ body {
   
   #logo {
     padding: 10px 0px 0px 55%;
-    width: 23%;
+    width: 25%;
+    height: 85px;
+
   }
   
   
